@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "78efb668",
+    "name": "rolox studio - stea",
+    "description": "esse e um app onde permite de voc\u00EA publique jogo no rolox",
+    "version": "0.0.1",
+    "downloadUrl": "https://codeload.github.com/onemapasofficeal/rolox.studio.stea/zip/refs/heads/main",
+    "publisher": "onemapasofficeal"
+  }
+]
