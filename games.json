@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "ec674453",
+    "title": "rolox - stea v1.beta",
+    "description": "esse e o app rolox o app em devenvolvimento pela one mapas offceal esse app esta sento usado como base da plataforma rolox!!!!!!!!!!!!",
+    "price": "Free",
+    "discount": "",
+    "tags": [
+      "roblox"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/sitesv/AA5AbUAk91nNCv5JyN2D7lKR9WT7Rwu9wQA6u7QeXHlJSnGu4aaae8dhiN3yPEgpFyreyYgrWUSRYhIV8I0zbJEXBn-5TwAr551_V9j4uXPjNnJ9VtmFIdgdWCIAhLAS3S8ozOUur0i0JNtQLuQpuWMYYEfWOf7iw4-9u_bSVAzal1O89SNIQ4HSjAe3=w1280",
+    "downloadUrl": "https://codeload.github.com/onemapasofficeal-office/rolox.stea.v1.beta/zip/refs/heads/main?token=CCZMXSQHXAFF6TNXNEBKNBDJ7J6XU",
+    "publishedAt": "2026-05-06T00:19:39.7572603Z",
+    "publisher": "onemapasofficeal"
+  }
+]
