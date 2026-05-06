@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "0846cb97",
+    "title": "ROLOX",
+    "description": "ESSE E O APP ROLOX!!!!!!!!!!!!!!\r\nesse app e uma copia de roblox mais ainda roda todos os jogos do ROBLOX!!!!!!!!!!!!!!!!!!!",
+    "price": "Free",
+    "discount": "",
+    "tags": [
+      "ROLOX"
+    ],
+    "imageUrl": "",
+    "downloadUrl": "https://codeload.github.com/onemapasofficeal-office/rolox.stea.v1.beta/zip/refs/heads/main",
+    "publishedAt": "2026-05-06T14:16:44.2885363Z",
+    "publisher": "onemapasofficeal",
+    "workshopEnabled": false,
+    "externalModsAllowed": false
+  }
+]
